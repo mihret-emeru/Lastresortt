@@ -1,0 +1,151 @@
+.home {
+  font-family: "Poppins", sans-serif;
+  background: #fff;
+  color: #222;
+  overflow-x: hidden;
+}
+
+.hero {
+  text-align: center;
+  position: relative;
+  padding: 5px 20px 60px;
+  background-color: #fffaf2;
+  overflow: visible;
+}
+
+.hero-title {
+  margin: 0;
+  font-size: 220px;
+  font-family: "Modern No. 20", serif;
+  color: #c89d00;
+  letter-spacing: 0.1em;
+  margin-bottom: -100px;
+  z-index: 2;
+  transform: translateY(10%);
+  position: relative;
+}
+
+.hero-image {
+  width: 100%;
+  max-width: 1300px;
+  border-radius: 8px;
+  object-fit: cover;
+  background: rgba(0, 0, 0, 0.5);
+  filter: brightness(0.5) contrast(1.5);
+  position: relative;
+  z-index: 1;
+}
+
+/* Article section */
+.article {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 60px 10%;
+  gap: 40px;
+}
+
+.article-left,
+.article-right {
+  flex: 1 1 400px;
+}
+
+.article-right p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.article-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.author {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
+.date {
+  font-weight: bold;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.article-title {
+  color: #c89d00;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-family: "Linden Hill", serif;
+}
+
+.article-text {
+  line-height: 1.8;
+  font-size: 1rem;
+  color: #333;
+}
+
+/* Gallery Section */
+.gallery {
+  padding: 60px 5%;
+  background: #fffaf2;
+  text-align: center;
+}
+
+.gallery-title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #c89d00;
+  margin-bottom: 40px;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+}
+
+.gallery-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.05);
+}
+
+.gallery-item p {
+  position: absolute;
+  bottom: 10px;
+  left: 15px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+.video-section {
+  text-align: center;
+  padding: 80px 40px;
+  background-color: #fff;
+}
+
+.video-title {
+  font-family: "Alice", serif;
+  color: rgba(218, 165, 32, 1); /* golden */
+  font-size: 2rem;
+  margin-bottom: 40px;
+}
+
+/* Container to center and resize the video */
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
