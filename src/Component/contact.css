@@ -1,0 +1,43 @@
+Contact.css .contact-page {
+  padding: 40px;
+  text-align: center;
+  color: rgba(218, 165, 32, 1);
+  font-family: "Alice", serif;
+  font-size: 1.5rem;
+}
+
+.contact-form-section form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: #f6f6f6;
+  padding: 30px;
+  border-radius: 8px;
+  width: 60%;
+  margin: 0 auto;
+  color: rgba(145, 178, 34, 1);
+  text-align: left;
+  padding: 10px 12px;
+  font-size: 1rem;
+}
+
+.contact-form-section input,
+.contact-form-section textarea {
+  padding: 10px;
+  border: 1px solid #999;
+  border-radius: 4px;
+}
+
+.contact-form-section button {
+  background: #fae4b3;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.reach-grid {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 30px;
+}

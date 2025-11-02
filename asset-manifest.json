@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Lastresortt/static/css/main.ad40da6c.css",
+    "main.js": "/Lastresortt/static/js/main.3cc379a5.js",
+    "static/js/453.9acf1e75.chunk.js": "/Lastresortt/static/js/453.9acf1e75.chunk.js",
+    "static/media/Flawlessevents.jpg": "/Lastresortt/static/media/Flawlessevents.872d33f641a4dc811c19.jpg",
+    "static/media/Bestdashen.mp4": "/Lastresortt/static/media/Bestdashen.7fea3e85b2f9f44e63d1.mp4",
+    "static/media/laptop.jpg": "/Lastresortt/static/media/laptop.d2cb7b90b9653e8d7471.jpg",
+    "static/media/Keybornstudio.jpg": "/Lastresortt/static/media/Keybornstudio.4d7e4e87fa911fe10b9c.jpg",
+    "static/media/Lunarealstate.jpg": "/Lastresortt/static/media/Lunarealstate.0717405210e47a55383f.jpg",
+    "static/media/seo.jpg": "/Lastresortt/static/media/seo.5b0b33654fa7a5cd4694.jpg",
+    "static/media/Aspiretravel.jpg": "/Lastresortt/static/media/Aspiretravel.5d583dbb159ed2301c68.jpg",
+    "static/media/Classicstudio.jpg": "/Lastresortt/static/media/Classicstudio.6f9b983f335627189a11.jpg",
+    "static/media/Diamond.jpg": "/Lastresortt/static/media/Diamond.ca67f9d54e6cfd3893d4.jpg",
+    "static/media/redblazer.jpg": "/Lastresortt/static/media/redblazer.a8f4c3e6bb1932705b6f.jpg",
+    "static/media/mercy.png": "/Lastresortt/static/media/mercy.3442f6d34fefb5e8e924.png",
+    "static/media/metallictv.jpg": "/Lastresortt/static/media/metallictv.efc5854d92697e0eb4f1.jpg",
+    "static/media/Missafrica.jpg": "/Lastresortt/static/media/Missafrica.94b780173dd5735be507.jpg",
+    "static/media/collage.jpg": "/Lastresortt/static/media/collage.5a3578d03b0a17a7f90c.jpg",
+    "static/media/tekta.png": "/Lastresortt/static/media/tekta.79d515ce18e64a200205.png",
+    "static/media/logo.png": "/Lastresortt/static/media/logo.d135211fad1b536c7d92.png",
+    "static/media/preview.jpg": "/Lastresortt/static/media/preview.a7f9cb7c50b8782bff67.jpg",
+    "static/media/unileverlogo.png": "/Lastresortt/static/media/unileverlogo.f1a531b68edb0a8d515a.png",
+    "static/media/Kidus.jpg": "/Lastresortt/static/media/Kidus.642718dd521d6bb00b37.jpg",
+    "static/media/amaziah.jpeg": "/Lastresortt/static/media/amaziah.66cbe769f051e53a248a.jpeg",
+    "static/media/Jwalkerlogo.png": "/Lastresortt/static/media/Jwalkerlogo.0804475b1ccd5163d328.png",
+    "static/media/sewegnalogo.png": "/Lastresortt/static/media/sewegnalogo.a583c711f7d22db37384.png",
+    "static/media/heylogo.png": "/Lastresortt/static/media/heylogo.e38f20a30333bb60e885.png",
+    "static/media/rovlogo.png": "/Lastresortt/static/media/rovlogo.eff08cf6cebedcd6b9e6.png",
+    "static/media/greenlogo.png": "/Lastresortt/static/media/greenlogo.ee770b67787575580ba7.png",
+    "static/media/nandlogo.png": "/Lastresortt/static/media/nandlogo.fe3fb4226219b697bcce.png",
+    "static/media/SurrealCoffee.png": "/Lastresortt/static/media/SurrealCoffee.aa7cdfd311201e991b7f.png",
+    "index.html": "/Lastresortt/index.html",
+    "main.ad40da6c.css.map": "/Lastresortt/static/css/main.ad40da6c.css.map",
+    "main.3cc379a5.js.map": "/Lastresortt/static/js/main.3cc379a5.js.map",
+    "453.9acf1e75.chunk.js.map": "/Lastresortt/static/js/453.9acf1e75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad40da6c.css",
+    "static/js/main.3cc379a5.js"
+  ]
+}

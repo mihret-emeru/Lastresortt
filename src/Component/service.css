@@ -1,0 +1,109 @@
+.service-page {
+  padding: 40px;
+  text-align: center;
+}
+.intro h2 {
+  color: rgba(218, 165, 32, 1);
+
+  font-size: 2.5rem; /* large title size */
+  font-weight: 400; /* normal weight for Alice font */
+  line-height: 1.3; /* space between lines if multi-line */
+  margin: 40px 0 20px 0; /* top and bottom spacing */
+  text-align: center;
+}
+.intro p {
+  color: #666666;
+}
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin: 40px 0;
+}
+
+.service-card h3 {
+  color: rgba(218, 165, 32, 1);
+}
+.service-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.service-card {
+  background: #fafafa;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.cta-section {
+  background: #fff2cc;
+
+  margin: 100px 0;
+  border-radius: 8px;
+  box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* Flex for text and button in one line */
+  display: flex;
+  /* vertically center text and button */
+  justify-content: flex-start; /* space between text and button */
+  gap: 500px; /* gap between text and button */
+  flex-wrap: wrap;
+  padding: 60px 120px;
+}
+.cta-section p {
+  margin: 0;
+  font-size: 1.2rem;
+  font-family: "Poppins", sans-serif;
+  color: #666666;
+  flex: none; /* text takes only needed space */
+  text-align: left; /* let text take remaining space */
+}
+
+.cta-section button {
+  padding: 10px 20px;
+  background: #fff;
+  border: 1px solid #000;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.cta-section button:hover {
+  background-color: rgba(76, 96, 145, 1);
+  transform: translateY(-2px);
+}
+.brands-section {
+  text-align: center;
+  padding: 60px 40px;
+  background-color: #fff;
+}
+
+.brands-section h2 {
+  color: rgba(218, 165, 32, 1);
+
+  font-size: 2.5rem; /* large title size */
+  font-weight: 400; /* normal weight for Alice font */
+  line-height: 1.3; /* space between lines if multi-line */
+  margin: 10px 0 20px 0; /* top and bottom spacing */
+  text-align: center;
+}
+
+/* Grid for 3×3 layout */
+.brands-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  justify-items: center;
+  align-items: center;
+}
+
+/* Logo styling with grayscale effect */
+.brands-grid img {
+  width: 120px;
+  height: auto;
+  opacity: 0.9;
+  transition: transform 0.3s ease, filter 0.3s ease, opacity 0.3s ease;
+}
+
+.brands-grid img:hover {
+  transform: scale(1.05);
+  filter: grayscale(0%);
+  opacity: 1;
+}
